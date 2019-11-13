@@ -1,3 +1,4 @@
+---
 ### `alignContent`
 
 `alignContent` controls how rows align in the cross direction, overriding the `alignContent` of the parent. See https://developer.mozilla.org/en-US/docs/Web/CSS/align-content for more details.
@@ -585,5 +586,3 @@ On iOS, `zIndex` may require `View`s to be siblings of each other for it to work
 | Type   | Required |
 | ------ | -------- |
 | number | No       |
-
----
