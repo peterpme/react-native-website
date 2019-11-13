@@ -1,5 +1,3 @@
----
-
 ### `alignContent`
 
 `alignContent` controls how rows align in the cross direction, overriding the `alignContent` of the parent. See https://developer.mozilla.org/en-US/docs/Web/CSS/align-content for more details.
